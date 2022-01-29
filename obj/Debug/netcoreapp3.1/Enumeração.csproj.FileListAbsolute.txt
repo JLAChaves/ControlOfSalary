@@ -1,0 +1,14 @@
+C:\Users\chave\source\repos\Enumeração\Enumeração\bin\Debug\netcoreapp3.1\Enumeração.exe
+C:\Users\chave\source\repos\Enumeração\Enumeração\bin\Debug\netcoreapp3.1\Enumeração.deps.json
+C:\Users\chave\source\repos\Enumeração\Enumeração\bin\Debug\netcoreapp3.1\Enumeração.runtimeconfig.json
+C:\Users\chave\source\repos\Enumeração\Enumeração\bin\Debug\netcoreapp3.1\Enumeração.runtimeconfig.dev.json
+C:\Users\chave\source\repos\Enumeração\Enumeração\bin\Debug\netcoreapp3.1\Enumeração.dll
+C:\Users\chave\source\repos\Enumeração\Enumeração\bin\Debug\netcoreapp3.1\Enumeração.pdb
+C:\Users\chave\source\repos\Enumeração\Enumeração\obj\Debug\netcoreapp3.1\Enumeração.csproj.AssemblyReference.cache
+C:\Users\chave\source\repos\Enumeração\Enumeração\obj\Debug\netcoreapp3.1\Enumeração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chave\source\repos\Enumeração\Enumeração\obj\Debug\netcoreapp3.1\Enumeração.AssemblyInfoInputs.cache
+C:\Users\chave\source\repos\Enumeração\Enumeração\obj\Debug\netcoreapp3.1\Enumeração.AssemblyInfo.cs
+C:\Users\chave\source\repos\Enumeração\Enumeração\obj\Debug\netcoreapp3.1\Enumeração.csproj.CoreCompileInputs.cache
+C:\Users\chave\source\repos\Enumeração\Enumeração\obj\Debug\netcoreapp3.1\Enumeração.dll
+C:\Users\chave\source\repos\Enumeração\Enumeração\obj\Debug\netcoreapp3.1\Enumeração.pdb
+C:\Users\chave\source\repos\Enumeração\Enumeração\obj\Debug\netcoreapp3.1\Enumeração.genruntimeconfig.cache
